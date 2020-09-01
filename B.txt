@@ -1,0 +1,2 @@
+i am in branch B and its my first commit
+this is my second commit
